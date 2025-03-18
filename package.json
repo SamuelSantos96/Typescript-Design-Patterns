@@ -1,0 +1,20 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelSantos96/Typescript-Design-Patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelSantos96/Typescript-Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/SamuelSantos96/Typescript-Design-Patterns#readme",
+  "description": ""
+}
