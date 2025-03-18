@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "decorator": "cd Decorator && tsc decorator.ts && node decorator.js",
-    "observer": "cd Observer && tsc observer.ts && node observer.js"
+    "observer": "cd Observer && tsc observer.ts && node observer.js",
+    "facade": "cd Facade && tsc facade.ts && node facade.js"
   },
   "repository": {
     "type": "git",
