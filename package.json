@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "decorator": "cd Decorator && tsc decorator.ts && node decorator.js"
+    "decorator": "cd ../Decorator && tsc decorator.ts && node decorator.js"
   },
   "repository": {
     "type": "git",
