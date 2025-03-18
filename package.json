@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "decorator": "cd Decorator && tsc decorator.ts && node decorator.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
     "url": "https://github.com/SamuelSantos96/Typescript-Design-Patterns/issues"
   },
   "homepage": "https://github.com/SamuelSantos96/Typescript-Design-Patterns#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
 }
