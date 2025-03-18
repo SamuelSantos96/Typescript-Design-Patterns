@@ -5,7 +5,8 @@
   "scripts": {
     "decorator": "cd Decorator && tsc decorator.ts && node decorator.js",
     "observer": "cd Observer && tsc observer.ts && node observer.js",
-    "facade": "cd Facade && tsc facade.ts && node facade.js"
+    "facade": "cd Facade && tsc facade.ts && node facade.js",
+    "adapter": "cd Adapter && tsc adapter.ts && node adapter.js"
   },
   "repository": {
     "type": "git",
