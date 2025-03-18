@@ -6,7 +6,8 @@
     "decorator": "cd Decorator && tsc decorator.ts && node decorator.js",
     "observer": "cd Observer && tsc observer.ts && node observer.js",
     "facade": "cd Facade && tsc facade.ts && node facade.js",
-    "adapter": "cd Adapter && tsc adapter.ts && node adapter.js"
+    "adapter": "cd Adapter && tsc adapter.ts && node adapter.js",
+    "state": "cd State && tsc state.ts && node state.js"
   },
   "repository": {
     "type": "git",
